@@ -6,4 +6,5 @@ A aplicação foi desenvolvida usando as tecnologias: HTML, CSS, Javascript e No
 
 Link: https://limitless-sands-83676.herokuapp.com
 
-![Screenshot_2](https://user-images.githubusercontent.com/74630279/187345947-c426f99e-ec32-4ca4-8481-884bff4ee0ba.jpg)
+
+![Screenshot_2](https://user-images.githubusercontent.com/74630279/189027320-46b51869-d6be-49d3-a155-70406498b962.jpg)
