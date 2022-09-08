@@ -2,7 +2,7 @@
 
 Programa criado durante o desenvolvimento da matéria de Sistemas Distribuídos do IFPR.
 
-A aplicação foi desenvolvida usando as tecnologias: HTML, CSS, Javascript e NodeJS.
+A aplicação foi desenvolvida usando as tecnologias: HTML, CSS, Javascript, NodeJS e MongoBD.
 
 Link: https://limitless-sands-83676.herokuapp.com
 
