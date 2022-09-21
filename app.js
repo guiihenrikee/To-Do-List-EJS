@@ -68,11 +68,6 @@ app.post("/delete", function(req, res) {
   })
 })
 
-app.get("/work", function(req,res){
-  res.render("list", {listTitle: "Work List", newListItems: workItems});
-});
-
-
 let port = process.env.PORT;
 if (port == null || port == "") {
   port = 3000;
